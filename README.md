@@ -1,6 +1,6 @@
 # 👁️ Eyedra
 
-![alt text](https://github.com/schwpz/eyedra/blob/main/eyedra%20logo.png))
+![alt text](https://github.com/schwpz/eyedra/blob/main/eyedra%20logo.png)
 
 Eyedra is a secure Windows utility for splitting and merging files with robust encryption, mandatory Two-Factor Authentication (2FA), user-specific wallet codes (public keys), and a private key system.  
 **Eyedra is specifically designed for confidential file sharing:** every user's files are cryptographically protected so that only the intended recipient, with their private key, can decrypt files sent to their wallet code—providing true zero-knowledge security and safe file sharing.
