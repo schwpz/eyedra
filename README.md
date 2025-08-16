@@ -106,7 +106,7 @@ Always get the latest version from the [Releases](../../releases) section.
 
 - Eyedra is for personal and non-commercial use only.
 - Redistribution, modification, or rebranding is not allowed.
-- All rights reserved © 2025 schwpz
+- All rights reserved © 2025 Batuhan Turguteli
 
 ---
 
