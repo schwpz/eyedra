@@ -106,7 +106,7 @@ Always get the latest version from the [Releases](../../releases) section.
 
 MIT License
 
-Copyright (c) 2025 schwpz
+Copyright (c) 2025 Batuhan Turguteli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
