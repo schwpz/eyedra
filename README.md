@@ -7,6 +7,34 @@ Eyedra is a secure Windows utility for splitting and merging files with robust e
 
 ---
 
+## 🔑 Potential Use Cases
+
+1. **Journalists & Media Organizations**  
+   *Why?* Need to protect sources and share sensitive documents securely.  
+   *Example:* Secure document exchange between reporters, activists, and newsrooms.  
+   *Advantage:* With private key + 2FA, no outsider can decrypt shared files.
+
+2. **Human Rights & Activist NGOs**  
+   *Why?* Sensitive data and documents are frequently exchanged digitally.  
+   *Example:* Confidential sharing among NGOs, vulnerable groups, or international activists.  
+   *Advantage:* Zero-knowledge ensures source anonymity and confidentiality.
+
+3. **Legal & Attorney Offices**  
+   *Why?* Client files are extremely privacy-sensitive.  
+   *Example:* Secure transfer of case files, contracts, and evidence between parties.  
+   *Advantage:* Only users with the correct private key can decrypt files.
+
+4. **Finance & Crypto Sector**  
+   *Why?* Wallet code logic and key security is familiar and essential to crypto users.  
+   *Example:* Confidential sharing of financial reports, investment docs, token/contract files.  
+   *Advantage:* Crypto users are already comfortable with private/public key concepts.
+
+5. **Academia & Research Communities**  
+   *Why?* Preventing leaks and premature disclosure of research is critical.  
+   *Example:* Sharing paper drafts, patent applications, or datasets securely.  
+   *Advantage:* Only the intended recipient can decrypt, minimizing leak risk.
+
+
 ## 🚀 How Eyedra Works – User Journey
 
 ### 1. Download & Launch
