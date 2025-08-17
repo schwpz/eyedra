@@ -61,6 +61,30 @@ Eyedra is a secure Windows utility for splitting and merging files with robust e
 - Enter your username, password, and 2FA code.
 - For any file action (split/merge), your private key is derived in memory after successful authentication.
 
+## Eyedra Login
+
+
+
+https://github.com/user-attachments/assets/44e4e41e-5584-47fb-8e2b-ac1480e520f8
+
+
+
+## Eyedra Encrypt
+
+
+
+https://github.com/user-attachments/assets/86bb310b-1bfe-4af6-9b4e-53be803b2532
+
+
+
+## Eyedra Decrypt
+
+
+
+https://github.com/user-attachments/assets/8306b3b3-9524-46ff-8ba9-3075233b4518
+
+
+
 ---
 
 ## 🔐 Secure Confidential File Sharing – The Eyedra Way
