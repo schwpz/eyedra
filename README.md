@@ -77,7 +77,6 @@ Eyedra is a secure Windows utility for splitting and merging files with robust e
 
 ---
 
-![Eyedra User Flow](./Eyedra%20user%20flow%20.png)
 
 ## 🔐 Wallet Code & Private Key – Security Logic
 
@@ -131,6 +130,11 @@ Eyedra is a secure Windows utility for splitting and merging files with robust e
 Always get the latest version from the [Releases](../../releases) section.
 
 ---
+
+## 🔑 How it works?
+
+
+![Eyedra User Flow](./Eyedra%20user%20flow%20.png)
 
 ## 📝 License & Usage
 
