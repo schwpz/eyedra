@@ -125,6 +125,16 @@ Eyedra is a secure Windows utility for splitting and merging files with robust e
 
 ---
 
+
+## 🛣️ Roadmap
+
+### 1️⃣ Short-Term Goals (Next Release)
+- Implement a **file sharing plugin** for one-time file downloads.  
+- Make the GUI more **user-friendly**.  
+- Minor **bug fixes** and performance improvements.
+
+---
+
 ## 📦 Download
 
 Always get the latest version from the [Releases](../../releases) section.
@@ -135,6 +145,8 @@ Always get the latest version from the [Releases](../../releases) section.
 
 
 ![Eyedra User Flow](./Eyedra%20user%20flow%20.png)
+
+---
 
 ## 📝 License & Usage
 
