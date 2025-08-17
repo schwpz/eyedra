@@ -62,10 +62,6 @@ Eyedra is a secure Windows utility for splitting and merging files with robust e
 - For any file action (split/merge), your private key is derived in memory after successful authentication.
 
 ---
-## 🚀 Eyedra User Flow
-
-![alt text](](](https://github.com/schwpz/eyedra/blob/main/Eyedra%20user%20flow%20.png?raw=true)))
----
 
 ## 🔐 Secure Confidential File Sharing – The Eyedra Way
 
